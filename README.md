@@ -1,7 +1,7 @@
 <!-- 
 
 README.md - NightBox
-Versão: 01
+Versão: 02
 
 -->
 <p align="center"><a href="#"><img width="80%" src="https://i.imgur.com/WhSDTpq.png"></a></p>
@@ -10,7 +10,7 @@ Versão: 01
 
 <p align="center">Olá! Seja bem-vindo ao NightBox, um utilitário desenvolvido para Windows 10 e 11 cheio de ferramentas projetadas para melhorar a sua experiência no sistema. Algumas das funções dele são: Otimizações, Debloater, Privacidade, Configurações entre outras funções!</p>
 
-<p align="center"><a href="https://github.com/DarkModeBR/NightBox/releases/download/latest/NightBox.bat"><img width="30%" src="https://i.imgur.com/coCwqIe.png"></a></p>
+<p align="center"><a href="https://github.com/DarkModeBR/NightBox/releases/latest/download/NightBox.bat"><img width="30%" src="https://i.imgur.com/coCwqIe.png"></a></p>
 
 
 <h2>🧰┃Ferramentas</h2>
