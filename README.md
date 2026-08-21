@@ -6,17 +6,17 @@
   </p>
 </div>
 
-
-
-
-
 <p align="center"><a href="#"><img width="80%" src="https://i.imgur.com/WhSDTpq.png"></a></p>
 
 ---
 
 <p align="center">Olá! Seja bem-vindo ao NightBox, um utilitário desenvolvido para Windows 10 e 11 cheio de ferramentas projetadas para melhorar a sua experiência no sistema. Algumas das funções dele são: Otimizações, Debloater, Privacidade, Configurações entre outras funções!</p>
 
-<p align="center"><a href="https://github.com/DarkModeBR/NightBox/releases/latest/download/NightBox.bat"><img width="30%" src="https://i.imgur.com/coCwqIe.png"></a></p>
+<div align="center">
+  <a href="https://github.com/Greedeks/GTweak/releases/latest/download/gtweak.exe">
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Download.svg?variant=outline&amp;size=lg&amp;font=fira-code&amp;logo=ri%3ATbDownload&amp;mode=dark"><img width="30%" alt="badge" src="https://shieldcn.dev/badge/Download.svg?variant=outline&amp;size=lg&amp;font=fira-code&amp;logo=ri%3ATbDownload&amp;mode=light"></picture>
+  </a>
+</div>
 
 
 <h2>🧰┃Ferramentas</h2>
