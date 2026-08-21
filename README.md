@@ -15,6 +15,8 @@
     </picture>
   </p>
 
+  ---
+
   <p>
     <img width="80%" src="https://i.imgur.com/WhSDTpq.png" alt="NightBox">
   </p>
