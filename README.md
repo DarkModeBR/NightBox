@@ -1,9 +1,15 @@
-<!-- 
+<div align="center">
+  <p>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/stars/DarkModeBR/NightBox.svg?variant=outline&amp;size=lg&amp;mode=dark&amp;font=fira-code"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/stars/DarkModeBR/NightBox.svg?variant=outline&amp;size=lg&amp;mode=light&amp;font=fira-code"></picture>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/release/DarkModeBR/NightBox.svg?variant=outline&amp;size=lg&amp;mode=dark&amp;font=fira-code"><img alt="Release" src="https://www.shieldcn.dev/github/release/DarkModeBR/NightBox.svg?variant=outline&amp;size=lg&amp;mode=light&amp;font=fira-code"></picture>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/license/DarkModeBR/NightBox.svg?variant=outline&amp;size=lg&amp;mode=dark&amp;font=fira-code"><img alt="License" src="https://www.shieldcn.dev/github/license/DarkModeBR/NightBox.svg?variant=outline&amp;size=lg&amp;mode=light&amp;font=fira-code"></picture>
+  </p>
+</div>
 
-README.md - NightBox
-Versão: 02
 
--->
+
+
+
 <p align="center"><a href="#"><img width="80%" src="https://i.imgur.com/WhSDTpq.png"></a></p>
 
 ---
